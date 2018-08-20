@@ -1,1 +1,1 @@
-var playlist = { "Kings of Leon": "Closer" }
+var playlist = { "Kings of Leon": "Closer" };
