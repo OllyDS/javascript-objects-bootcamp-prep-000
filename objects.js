@@ -6,5 +6,5 @@ function updatePlaylist(){
 }
 
 function removeFromPlaylist(){
-  delete updatePlaylist["Phil Ochs"];
+  delete updatePlaylist.Slowdrive;
 }
