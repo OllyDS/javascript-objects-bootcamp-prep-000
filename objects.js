@@ -6,5 +6,5 @@ function updatePlaylist(){
 }
 
 function removeFromPlaylist(){
-  delete playlist.
+  delete playlist["Phil Ochs"]
 }
