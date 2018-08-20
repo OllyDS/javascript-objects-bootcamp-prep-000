@@ -1,6 +1,6 @@
 var playlist = { "Kings of Leon": "Closer" };
 
 function updatePlaylist(){
-  playlist["Kings of Leon"] = "Back Down South"
+  playlist["Phil Ochs"] = "Here's to the State of Mississippi"
   return updatePlaylist
 }
