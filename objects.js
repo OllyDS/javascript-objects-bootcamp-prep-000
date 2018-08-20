@@ -6,5 +6,5 @@ function updatePlaylist(){
 }
 
 function removeFromPlaylist(){
-  delete playlist.PhilOchs;
+  delete playlist["Phil Ochs"];
 }
