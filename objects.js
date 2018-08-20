@@ -6,5 +6,5 @@ function updatePlaylist(){
 }
 
 function removeFromPlaylist(){
-  delete updatePlaylist.Slowdrive;
+  delete playlist.Slowdrive;
 }
