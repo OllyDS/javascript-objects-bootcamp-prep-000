@@ -6,5 +6,5 @@ function updatePlaylist(){
 }
 
 function removeFromPlaylist(){
-  delete playlist["Phil Ochs"];
+  delete playlist.Slowdive;
 }
